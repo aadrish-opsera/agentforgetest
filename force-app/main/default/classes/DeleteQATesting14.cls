@@ -1,0 +1,16 @@
+@isTest
+public class DeleteQATesting14 {
+    private Integer num = 4564; // conflicting change on the same line
+
+    @isTest
+    public static void helloMethod() {
+        // Modified same line → guaranteed conflict
+        System.debug('THEIRS: Different Hello Method text on 10/Dec/2025');
+    }
+
+    public static testMethod void testNewMethod() {
+        // Another conflicting modification on the same lines
+        System.debug('OURS: Completefly different testNewMethod text');
+        System.debug('THEIRS: Different extra lifnes to ensure merge conflicts');
+    }
+}
