@@ -219,6 +219,11 @@ RBC/Business Line Manager</description>
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>standard__ScaleTestApp</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__Service</application>
         <default>false</default>
         <visible>false</visible>
@@ -8604,6 +8609,10 @@ RBC/Business Line Manager</description>
     </classAccesses>
     <classAccesses>
         <apexClass>reusableCustomLookUpController_Test</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>RollbackDemoApex1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
