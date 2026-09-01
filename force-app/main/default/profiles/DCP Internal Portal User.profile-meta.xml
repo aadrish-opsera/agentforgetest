@@ -4208,6 +4208,10 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DeletePrabaDemoTesting</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeleteQATesting12</apexClass>
         <enabled>false</enabled>
     </classAccesses>
