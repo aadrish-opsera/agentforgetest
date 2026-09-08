@@ -4480,7 +4480,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>DeleteArunTesting</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>DeleteDemo_Apex10_9May</apexClass>
