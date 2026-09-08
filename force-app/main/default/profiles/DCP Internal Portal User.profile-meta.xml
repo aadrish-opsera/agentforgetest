@@ -272,6 +272,10 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountHandler_Arun</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AccountMemberHanlderPRM</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -4196,7 +4200,47 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DeleteDemo_Apex10_Spaces</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeleteDemoApex10</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApex10_ArunQA</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApex10_ArunQASalesforceTesting</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApex10_June29</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva10</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva12</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva4</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApexSiva9</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -4212,7 +4256,23 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DeleteQATesting_Opsera1234</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteQATesting_Opsera123456</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteQATesting_PradeepOpsera</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeleteQATesting12</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteQATesting13</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -4221,6 +4281,10 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
     </classAccesses>
     <classAccesses>
         <apexClass>DeleteSalesforceTestingQA</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteSalesforceTestingQA_Opsera1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -7881,6 +7945,10 @@ If any Permission Set is needed by this Profile User, it must be reviewed by Sol
     </classAccesses>
     <classAccesses>
         <apexClass>PreferredDistributorHelperTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>PrevalidationWebhookDummy</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
