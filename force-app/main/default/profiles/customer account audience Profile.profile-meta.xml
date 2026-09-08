@@ -6623,6 +6623,11 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
+        <recordType>Account.Dunning_End_Reinstatement</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
         <recordType>Account.External_Account</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
