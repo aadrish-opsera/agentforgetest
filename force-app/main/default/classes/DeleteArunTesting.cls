@@ -5,7 +5,7 @@ private Integer num;
     @isTest
    public static void helloMethod() {
 
-        System.debug('Change Hello DemoApex11 Basic Pipeline PR Validation 23/july/2025');
+        System.debug('Change Hello DemoApex11 Basic QAREG2026 04Sep2026');
     
 
     }

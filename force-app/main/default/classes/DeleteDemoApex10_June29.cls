@@ -5,7 +5,7 @@ private Integer num;
     @isTest
    public static void helloMethod() {
 
-        System.debug('Change Hello DemoApex11 Basic 26June2025 Webhook Run June29 QA ');
+        System.debug('Change Hello DemoApex11 Basic qa Webhook Run REG QA ');
 
     }
     
