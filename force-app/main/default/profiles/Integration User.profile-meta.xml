@@ -512,6 +512,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>DeletePrabaRollback</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeleteQATesting_Opsera1234</apexClass>
         <enabled>false</enabled>
     </classAccesses>
