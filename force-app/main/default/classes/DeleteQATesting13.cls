@@ -5,7 +5,7 @@ public class DeleteQATesting13 {
     @isTest
     public static void helloMethod() {
         // Modified same line → guaranteed conflict
-        System.debug('THEIRS: Different Hello Method QATEST 10/09/26');
+        System.debug('THEIRS: Different Hello Method Quick Deploy Task  10/09/26');
     }
 
     public static testMethod void testNewMethod() {
