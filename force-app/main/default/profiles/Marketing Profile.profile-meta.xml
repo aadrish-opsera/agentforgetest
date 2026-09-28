@@ -4201,6 +4201,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Delete_01Mar_PROD</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteArunTesting</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeleteDemo_Apex10_9May</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -4222,6 +4230,14 @@
     </classAccesses>
     <classAccesses>
         <apexClass>DeleteDemoApex10_June29</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApex10_QA</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteDemoApex10_Raj</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -4298,6 +4314,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>DeleteUAT12122023</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>DeleteUAT13122023</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
